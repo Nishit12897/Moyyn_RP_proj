@@ -1,5 +1,7 @@
 # ResumeParser
 
+#main app - ResumeParser
+
 1) download zip file
 2) install requirements
 3) pip install pyresparser
@@ -15,4 +17,5 @@
     python resume_parser/manage.py migrate
     python resume_parser/manage.py runserver
     
+
     
